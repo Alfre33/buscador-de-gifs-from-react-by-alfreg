@@ -1,3 +1,6 @@
+#Primera App de React
+#Buscador de Gifs Usando la API de giphy
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
